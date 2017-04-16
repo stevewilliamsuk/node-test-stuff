@@ -59,3 +59,6 @@ typings/
 
 #apple mac
 .DS_Store
+
+#jetbrains
+.idea/*
